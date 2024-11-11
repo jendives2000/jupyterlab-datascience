@@ -4,7 +4,7 @@
 This is a side project that I am doing to practice Pandas 2 and EDA, particularly preprocessing and visualization. 
 A substantial part of this work was dedicated to converting Series data types to pyarrow data types.  
 This is a best practice that is not so impactful here in this case where the column with the highest number of rows is about 5000 rows.  
-Still, it saves some time in computing and memory weight as well. 
+Still, it saves some time in computing and memory weight as well. Whenever it was the case I mentioned it in the notebook.
 
 For all details related to the data itself, please refer to the fundamental_analysis.md document. 
 
